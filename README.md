@@ -28,6 +28,10 @@ Hay distintos tipos de codigo, por lo general los 1xx informan respuestas inform
 Este realiza un metodo GET, ya que pide todos los recursos necesarios para obtener los datos/archivos de la pagina. Por ejemplo trae los archivos css,js,html,etc.
 
 8- Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+Ambos son un formato de intercambio de datos 
+Estructura de datos JSON: 
+
+
 
 
 EJERCICIO 3
