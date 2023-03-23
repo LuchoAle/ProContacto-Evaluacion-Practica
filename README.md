@@ -22,8 +22,12 @@ Hay distintos tipos de codigo, por lo general los 1xx informan respuestas inform
 3xx se utiliza para redirecciones,
 4xx es utilizada para informar errores por parte del CLIENTE 
 5xx informa un error por parte del servidor,base de datos.
-6- ¿Cómo se envía la data en un Get y cómo en un POST? 
+6- ¿Cómo se envía la data en un Get y cómo en un POST?
 
+7- ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
+Este realiza un metodo GET, ya que pide todos los recursos necesarios para obtener los datos/archivos de la pagina. Por ejemplo trae los archivos css,js,html,etc.
+
+8- Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 
 
 EJERCICIO 3
