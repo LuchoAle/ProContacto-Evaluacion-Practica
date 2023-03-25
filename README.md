@@ -1,7 +1,7 @@
 # ProContacto-Evaluacion-Practica
 Evaluacion practica realizada para una entrevista realizada por la empresa ProContacto.
 
-EJERCICIO 2
+## EJERCICIO 2
 1-	Que es un servidor Http
 Es un servidor el cual tiene como objetivo intercambiar información entre un servidor y un cliente/usuario, mantiene esta estructura cliente-servidor utilizando el protocolo HTTP el cual permite realizar una petición de datos y recursos. Se realiza mediante conexiones que son bidireccionales o unidireccionales. Este protocolo permite
 2-	Que son los verbos HTTP
@@ -38,12 +38,27 @@ Formato JSON (JavaScript Object Notation): presenta la informacion mas legible p
 Caracteristicas: Es un formato simple y trabaja con una velocidad de procesamiento alta
 Ejemplo: 
 
+9- Explicar brevemente el estándar SOAP
+Simple Object Access Protocol conocido por su abreviatura SOAP, es un protocolo de red basado en XML que define como diseñar infercaces de programacion de aplicaciones (API). Es ideal para las empresas, ya que esta bien definida por una serie de reglas integradas que aumentan la complejidad y la sobrecarga.
+Es independiente del transporte, aunque habitualmente se utiliza con el protocolo http. Se definen tres partes en todo el mensaje:
+- Sobre: Define una infrasestructura para describir que hay en un mensaje y como procesarlo
+- Reglas de codificacion: Instancia de tipos de datos definidos por la aplicacion. Normas de codificacion que definen un mecanismo de serializacion.
+- Estilos de comunicacion: Puede seguir el formato RPC ( llamada de procedimiento remoto ) o estilo de documento.
+Caracteristicas: Seguridad,atomicidad,aislamiento,uniformidad,durabilidad.Grantiza operaciones confiables en la base de datos.
+
+10- Explicar brevemente el estándar REST Full
+
+Es un servicio doble via, consulta y respuesta, que dos sistemas computados utilizan para intercambiar informacion de manera segura a traves de internet.
+Una consulta debe especificar parametros de consulta para que el servicio sepa lo que se quiere consultar. Por lo general el cuerpo de la respuesta de una API con este estandar es una estructura con el formato JSON. Este estandar trabaja sobre el protocolo HTTP.
+
+11- ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+
+Los headers transmiten 
 
 
-
-EJERCICIO 3
-1-
-2-
+## EJERCICIO 3
+1- ![Ejercicio 1](https://raw.githubusercontent.com/LuchoAle/ProContacto-Evaluacion-Practica/main/Captura.PNG?token=GHSAT0AAAAAACARCQ6DIBD3XQBTHJYOUAT6ZA7C2WA)
+2- ![ejercicio 2](https://raw.githubusercontent.com/LuchoAle/ProContacto-Evaluacion-Practica/main/Captura2.PNG?token=GHSAT0AAAAAACARCQ6DK5XF7JPR5GSKXFOIZA7C4AQ)
 3- En el punto 1 vimos como al realizar un metodo GET el servidor nos devuelve un recurso en formato JSON el cual contiene una cantidad X de informacion sobre usuarios con sus respectivos mails y nombres, los cuales se pueden identificar por un TOKEN. En cambio, en el punto 2 vimos como al realizar un metodo POST mandamos un recurso al servidor con informacion del cliente, la cual el servidor GUARDA en la base de datos y nos devuelve como respuesta el codigo TOKEN de nuestra informacion.
 
-EJERCICIO 4 
+## EJERCICIO 4 
