@@ -72,12 +72,17 @@ Los headers transmiten
 
 ## EJERCICIO 5
 
+https://trailblazer.me/id/lrodriguez353
+
 ## EJERCICIO 6 
 
 ### Soluciones Salesforce
 
 a) ¿Que es salesforce?
-Es un sistema de CRM, que alamacena sus datos de clientes, le da procesos para cuidar a clientes potenciales y proporciona maneras para colaborar con personas que trabajan con empresas. Da la posibilidad de personalizar funciones para potenciar la aplicacion de manera unica para cada empresa, esto se logra con salesforce platform.
+Es una compañia en la nube con sistema de CRM, que alamacena sus datos de clientes, le da procesos para cuidar a clientes potenciales y proporciona maneras para colaborar con personas que trabajan con empresas. Da la posibilidad de personalizar funciones para potenciar la aplicacion de manera unica para cada empresa,clientes,empleados y socios, esto se logra con salesforce platform.
+
+Existen algunos términos aquí cuya comprensión es de capital importancia: confianza, capacidad multiusuario, metadatos y la API.
+
 Algunas ejemplos de las tareas que puede realizar salesForce: Gestiona  y mejora la eficiencia de ventas, simplifica procesos de creacion y realizacion de pedidos, conecta a sus empleados.
 
 b) ¿Qué es sales cloud?
