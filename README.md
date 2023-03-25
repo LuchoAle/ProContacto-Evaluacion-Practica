@@ -69,3 +69,20 @@ Los headers transmiten
 3- En el punto 1 vimos como al realizar un metodo GET el servidor nos devuelve un recurso en formato JSON el cual contiene una cantidad X de informacion sobre usuarios con sus respectivos mails y nombres, los cuales se pueden identificar por un TOKEN. En cambio, en el punto 2 vimos como al realizar un metodo POST mandamos un recurso al servidor con informacion del cliente, la cual el servidor GUARDA en la base de datos y nos devuelve como respuesta el codigo TOKEN de nuestra informacion.
 
 ## EJERCICIO 4 
+
+## EJERCICIO 5
+
+## EJERCICIO 6 
+
+### Soluciones Salesforce
+
+a) ¿Que es salesforce?
+Es un sistema de CRM, que alamacena sus datos de clientes, le da procesos para cuidar a clientes potenciales y proporciona maneras para colaborar con personas que trabajan con empresas. Da la posibilidad de personalizar funciones para potenciar la aplicacion de manera unica para cada empresa, esto se logra con salesforce platform.
+Algunas ejemplos de las tareas que puede realizar salesForce: Gestiona  y mejora la eficiencia de ventas, simplifica procesos de creacion y realizacion de pedidos, conecta a sus empleados.
+
+b) ¿Qué es sales cloud?
+
+
+## EJERCICIO 7 
+
+
