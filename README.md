@@ -28,8 +28,15 @@ Hay distintos tipos de codigo, por lo general los 1xx informan respuestas inform
 Este realiza un metodo GET, ya que pide todos los recursos necesarios para obtener los datos/archivos de la pagina. Por ejemplo trae los archivos css,js,html,etc.
 
 8- Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
-Ambos son un formato de intercambio de datos 
-Estructura de datos JSON: 
+Ambos son un formato de intercambio de datos, estandares utilizados para intercambiar informacion.
+Formato XML : basado en texto y en el uso de etiquetas. permite una adecuada representacion estructurada de la informacion,ya sean datos o documentos.
+Las etiquetas empiezan con <> y siempre deben cerrarse con </>. Dentro de cada etiqueta puede estar vacia o tener contenido y distintos elementos. Este estandar tambien permite agregar atributos, añade propiedades a un elemento.
+Caracteristicas: es un formato complicado de trabajar por las personas y mantiene un formato estricto.
+Ejemplo: 
+
+Formato JSON (JavaScript Object Notation): presenta la informacion mas legible para las personas. Este formato se basa en un subconjunto concreto del lenguaje de programacion JavaScript. Este protocolo utiliza una serie de pares de Nombre y valor en orden. 
+Caracteristicas: Es un formato simple y trabaja con una velocidad de procesamiento alta
+Ejemplo: 
 
 
 
