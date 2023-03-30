@@ -129,7 +129,29 @@ Es un modulo dirigido al area de equipos de marketing, utilizado para mejorar la
 
 ### Funcionalidades de SalesForce
 
+a) ¿Qué es un RecordType?
 
+Permite controlar como se muestra la informacion de ciertos objetos y como son mostrados a los usuarios. Define diferentes Business Process, pages layouts y picklist values en un determinado objeto. Es utilizado cuando un objeto de salesforce es usado para multiples propósitos y debe mostrar diferente información en su respectivo Page layout.
+
+b) ¿Qué es un ReportType?
+
+Es una plantilla que facilita la generacion de reportes. Determina que campos y registros están disponibles para el uso al crear un reporte. Basa la relación entre un objeto principal y los objetos relacionados.
+
+c) ¿Qué es un Page layout?
+
+Se ocupa de controlar el diseño y la organizacion de botones,campos,controles de visualforce,enlaces personalizados y listas relacionadas en paginas de registros de objetos. Determina que campos son visibles, de solo lectura y obligatorios. Son utilizados para personalizar el contenido de las paginas de registro para sus usuarios.
+
+d) ¿Qué es un compact layout?
+
+Muestra los campos clave de un registro en la app movil de salesforce, lightning experience y en las integraciones de outlook y gmail.
+
+e) ¿Qué es un perfil?
+
+Un perfil define como acceden los usuarios a objetos y datos, asi como tambien lo que pueden realizar en la aplicacion. Cuando se crean usuarios se asigna un perfil a cada uno.
+
+f) ¿Qué es un Rol?
+
+Un rol es capaz de controlar el nivel de visibilidad que un usuario tiene sobre los datos de su organizacion.
 
 ### Conceptos generales
 
