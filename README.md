@@ -70,9 +70,34 @@ Los headers transmiten
 
 ## EJERCICIO 4 
 
+Cuenta TrailHead: https://trailblazer.me/id/lrodriguez353
+
+
 ## EJERCICIO 5
 
-https://trailblazer.me/id/lrodriguez353
+Conceptualmente se los conoce como objetos estandar, son objetos que estan incluidos en Salesforce, conocidos como objetos de negocio. Estos objetos alamacenan campos estandar, que son campos basicos que estan incluidos en todos los objetos:
+
+  - Identidad: Codigo unico para cada registro que consta de 15 caracteres, se direncian mayusculas y miniculas. Se crea automaticamente.
+  - Sistema: Fecha creacion registro o fecha ultima modificacion.
+  - Nombre: Nombre del registro.
+
+Los registros mencionados son:
+
+  1.	Lead: 
+  2.	Account
+  3.	Contact
+  4.	Opportunity
+  5.	Product
+  6.	PriceBook
+  7.	Quote
+  8.	Asset
+  9.	Case
+  10.	Article
+
+Diagrama resuelto con la vinculacion pedida: 
+
+![ejercicio 5](ejercicio_diagrama.PNG)
+
 
 ## EJERCICIO 6 
 
