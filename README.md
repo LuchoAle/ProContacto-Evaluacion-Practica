@@ -96,7 +96,7 @@ Los registros mencionados son:
 
 Diagrama resuelto con la vinculacion pedida: 
 
-![ejercicio 5](ejercicio_diagrama.PNG)
+![ejercicio 5](ejercicio_diagrama.png)
 
 
 ## EJERCICIO 6 
