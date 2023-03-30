@@ -103,7 +103,8 @@ Diagrama resuelto con la vinculacion pedida:
 
 ### Soluciones Salesforce
 
-a) ¿Que es salesforce?
+a) ¿Qué es salesforce?
+
 Es una compañia en la nube con sistema de CRM, que alamacena sus datos de clientes, le da procesos para cuidar a clientes potenciales y proporciona maneras para colaborar con personas que trabajan con empresas. Da la posibilidad de personalizar funciones para potenciar la aplicacion de manera unica para cada empresa,clientes,empleados y socios, esto se logra con salesforce platform.
 
 Existen algunos términos aquí cuya comprensión es de capital importancia: confianza, capacidad multiusuario, metadatos y la API.
@@ -111,6 +112,26 @@ Existen algunos términos aquí cuya comprensión es de capital importancia: con
 Algunas ejemplos de las tareas que puede realizar salesForce: Gestiona  y mejora la eficiencia de ventas, simplifica procesos de creacion y realizacion de pedidos, conecta a sus empleados.
 
 b) ¿Qué es sales cloud?
+
+Es un modulo de SalesForce que permite gestionar de forma eficiente las relaciones con tus clientes y colaboracion entre equipos comerciales. Automatiza y ofrece productividad para la fuerza de ventas optimizando los procesos comerciales y alineandolos con el marketing de la empresa o servicio de atencion al cliente.
+
+c) ¿Que es Service Cloud?
+
+Es un componente de la plataforma Salesforce customer 360, que ofrece un servicio de asistencia para proporcionar a la empresa y agentes los sistemas adecuados para resolver casos de manera rapida y sencilla, para así lograr una atención mas inteligente,rápida y personalizada.
+
+d) ¿Qué es Health Cloud?
+
+Es una plataforma para gestionar la interaccion medico-paciente y el mantenimiento de registros. Mantiene una comunicación personalizada entre el paciente y las entidades de salud vinculadas en una nube de salud que reúne una amplia gama de datos de varias fuentes en un solo lugar.
+
+e) ¿Qué es Marketing Cloud?
+
+Es un modulo dirigido al area de equipos de marketing, utilizado para mejorar la experiencia de sus clientes y aumentar las ventas. Contiene multiples herramientas diseñadas para gestionar de manera eficienta la interacción de la marca con sus clientes a través de diferentes canales.
+
+### Funcionalidades de SalesForce
+
+
+
+### Conceptos generales
 
 
 ## EJERCICIO 7 
