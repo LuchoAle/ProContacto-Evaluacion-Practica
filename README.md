@@ -3,47 +3,60 @@ Evaluacion practica realizada para una entrevista realizada por la empresa ProCo
 
 ## EJERCICIO 2
 1-	Que es un servidor Http
+
 Es un servidor el cual tiene como objetivo intercambiar información entre un servidor y un cliente/usuario, mantiene esta estructura cliente-servidor utilizando el protocolo HTTP el cual permite realizar una petición de datos y recursos. Se realiza mediante conexiones que son bidireccionales o unidireccionales. Este protocolo permite
 
 2-	Que son los verbos HTTP
+
 Los verbos HTTP son distintas palabras que son utilizadas para realizar peticiones al servidor, los más utilizados son:
+
 - GET: Recupera información de un recurso
 - PUT: Reemplaza la información de un recurso. Utilizado para actualizar información. Puede devolver informacion.
 - POST: Crea un recurso. Devuelve el código 201 que significa la correcta creación del nuevo recurso/instancia.
 - DELETE: Utilizado para suprimir un recurso identificado.
 
 3- ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
+
 Un request es la peticion que realiza el cliente al servidor,esta es realizada junto con un metedo (como lo puede ser Get) y una URL.Un response es la respuesta que el servidor realiza al tener una peticion, devuelve un codigo de status junto con la informacion requerida en la peticion. En ambos casos se especifica el tipo de lenguaje, que púede ser XML, Jason, etc.
 Los Headers contienen informacion de los metadatos
 
 4- ¿Qué es un queryString? (En el contexto de una url)
+
 Forma parte de la URL, contiene los datos que deben pasar a las API. Estas cadenas de consultas permiten acceder a paginas web dinamicas. Al final de la url se pone el caracter "?" y luego se puede incluir uno o mas parametros representados como clave-valor (Clave=Valor). Esta Query lo que realiza es devolver una informacion especifica, la cual se obtiene buscando sobre los valores mensionados luego del caracter.
 
 5- ¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
+
 Es un codigo que se devuelve en un response por parte del servidor, el cual indica el estado de la peticien realizada por el navegador web del cliente ( la requiest ). Este indica como se realizo la request, puede tener un valor negativo como positivo (404 0 200 por ejemplo).
-Hay distintos tipos de codigo, por lo general los 1xx informan respuestas informativas,
-2xx informa que la request realizada se resolvio con exito, una peticion correcta.
-3xx se utiliza para redirecciones,
-4xx es utilizada para informar errores por parte del CLIENTE 
-5xx informa un error por parte del servidor,base de datos.
+
+Hay distintos tipos de codigo, por lo general los 1xx informan respuestas informativas:
+
+  - 2xx informa que la request realizada se resolvio con exito, una peticion correcta.  
+  - 3xx se utiliza para redirecciones,
+  - 4xx es utilizada para informar errores por parte del CLIENTE 
+  - 5xx informa un error por parte del servidor,base de datos.
 
 6- ¿Cómo se envía la data en un Get y cómo en un POST?
 
 7- ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
+
 Este realiza un metodo GET, ya que pide todos los recursos necesarios para obtener los datos/archivos de la pagina. Por ejemplo trae los archivos css,js,html,etc.
 
 8- Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+
 Ambos son un formato de intercambio de datos, estandares utilizados para intercambiar informacion.
 Formato XML : basado en texto y en el uso de etiquetas. permite una adecuada representacion estructurada de la informacion,ya sean datos o documentos.
 Las etiquetas empiezan con <> y siempre deben cerrarse con </>. Dentro de cada etiqueta puede estar vacia o tener contenido y distintos elementos. Este estandar tambien permite agregar atributos, añade propiedades a un elemento.
 Caracteristicas: es un formato complicado de trabajar por las personas y mantiene un formato estricto.
+
 Ejemplo: 
 
 Formato JSON (JavaScript Object Notation): presenta la informacion mas legible para las personas. Este formato se basa en un subconjunto concreto del lenguaje de programacion JavaScript. Este protocolo utiliza una serie de pares de Nombre y valor en orden. 
 Caracteristicas: Es un formato simple y trabaja con una velocidad de procesamiento alta
+
 Ejemplo: 
 
 9- Explicar brevemente el estándar SOAP
+
 Simple Object Access Protocol conocido por su abreviatura SOAP, es un protocolo de red basado en XML que define como diseñar infercaces de programacion de aplicaciones (API). Es ideal para las empresas, ya que esta bien definida por una serie de reglas integradas que aumentan la complejidad y la sobrecarga.
 Es independiente del transporte, aunque habitualmente se utiliza con el protocolo http. Se definen tres partes en todo el mensaje:
 - Sobre: Define una infrasestructura para describir que hay en un mensaje y como procesarlo
