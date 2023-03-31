@@ -160,9 +160,9 @@ Contiene una formula o expresión que evalúa los datos en uno o mas campos y of
 
 h) ¿Qué diferencia hay entre una relación Master Detail y Lookup?
 
-  -> Relacion Lookup: Permite hasta 25 por objeto y no tiene impacto en la eliminación.No es obligatorio el campo de relacion con el padre. El campo de busqueda no es obligatorio. No se puede crear un campo de resumen acumulativo.
+  - Relacion Lookup: Permite hasta 25 por objeto y no tiene impacto en la eliminación.No es obligatorio el campo de relacion con el padre. El campo de busqueda no es obligatorio. No se puede crear un campo de resumen acumulativo.
   
-  -> Relacion Master Detail: Relacion obligatoria padre-hijo. Si se elimina la clase padre entonces la clase hijo es eliminada tambien. El campo de busqueda es obligatorio en el diseño de la pagina. Se puede crear un campo de resumen acumulativo.
+  - Relacion Master Detail: Relacion obligatoria padre-hijo. Si se elimina la clase padre entonces la clase hijo es eliminada tambien. El campo de busqueda es obligatorio en el diseño de la pagina. Se puede crear un campo de resumen acumulativo.
 
 i) ¿Qué es un sandbox?
 
@@ -194,6 +194,49 @@ Es una red social interna de salesforce que permite comunicar diferentes compañ
 
 ### Conceptos generales
 
+A.	¿Qué significa SaaS?
+
+Software as a Service es un modelo que pone a disposición softwares y soluciones de tecnologia por medio de la internet. Se lo denomina software basasdo en web y son ejecutados en los servidores de las empresas proveedoras que tienen la responsabilidad de gestionar el acceso y mantener la estructura de datos, la conectividad y los servidores necesarios para el funcionamiento del servicio.
+
+B.	¿Salesforce es Saas?
+
+Salesforce utiliza PaaS (Plataforma como servicio), concepto que nace como resultado de la aplicación al desarrollo de software del modelo SaaS. El modelo abarca el ciclo completo para desarrollar e implementar aplicaciones desde internet.
+
+C.	¿Qué significa que una solución sea Cloud?
+
+Se refiere a recursos de computacion disponibles bajo demanda como servicios a través de internet. Este tipo de soluciones evitan que las empresas tengan que encargarse de aprovisionar, configurar o gestionar los recursos.
+
+D.	¿Qué significa que una solución sea On-Premise?
+
+La organización mantiene sus propios servidores y hardware, y compra la licencia del software. No son gestionados por un tercero si no que en las intalaciones propios de la empresa y se almacenan de forma local.
+
+E.	¿Qué es un pipeline de ventas?
+
+Es una herramienta de salesforce para la gestión que permite organizar de forma visual y dinamica el flujo de ventas de la empresa.
+
+F.	¿Qué es un funnel de ventas?
+
+Es un sistema diseñado para atraer a desconocidos, convertilos en Leads y transformarlos en clientes. El objetivo es conseguir clientes potenciales.
+
+G.	¿Qué significa Customer Experience?
+
+Es la impresión que una marca deja en un cliente en cada interacción.
+
+H.	¿Qué significa omnicanalidad?
+
+Estrategia de comunicación que mejora la relación empresa-cliente a través de diferentes canales interrelacionados y permite identificar al cliente en los diferentes canales.
+
+I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
+
+J.	¿Qué es una API y en qué se diferencia de una Rest API?
+
+K.	¿Qué es un Proceso Batch?
+
+L.	¿Qué es Kanban?
+
+M.	¿Qué es un ERP? 
+
+N.	¿Salesforce es un ERP? 
 
 ## EJERCICIO 7 
 
