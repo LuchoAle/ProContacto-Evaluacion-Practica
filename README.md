@@ -228,15 +228,33 @@ Estrategia de comunicación que mejora la relación empresa-cliente a través de
 
 I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
 
+
+
 J.	¿Qué es una API y en qué se diferencia de una Rest API?
+
+Una API (Application Programming interface) es un intermediario a través del cual se pueden utilizar los productos o servicios sin saber nada de su implementación respecto a la programación.
+Resumido, son un conjunto de funciones o estructura de datos que se ponen a disposición.
+Una Api Rest es un estilo arquitectónico que utiliza implementaciones cliente-servidor de forma independiente, utilizando un protocolo http para la comunicacion.
+
+En conclusión, las api pueden o utilizar un estilo arquitectonico Rest para la comunicacion y en ella se encuentra la diferencia.
 
 K.	¿Qué es un Proceso Batch?
 
+Es un método qye utilizan las computadoras para completar periodicamente trabajos de datos repetitivos y gran volumen.
+
 L.	¿Qué es Kanban?
+
+Es un método de gestión del flujo de trabajo que ayuda a las organizaciones a gestionar y mejorar los sistemas de trabajo. Utilizado para visualizar el trabajo y mejorar la eficiencia.
 
 M.	¿Qué es un ERP? 
 
+Es un sistema que esta compuesto por módulos integrados o aplicaciones de negocio que se hablan entre si y comparten una base de datos en común.
+Cada módulo de ERP se enfoca en un área de negocio pero todos trabajan en conjunto usando los mismos datos para cumplir las necesidades de la empresa.
+
 N.	¿Salesforce es un ERP? 
+
+Salesforce es un CRM, utilizado para gestionar la relación con los clientes.
+
 
 ## EJERCICIO 7 
 
