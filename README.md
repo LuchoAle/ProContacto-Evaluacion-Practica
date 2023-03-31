@@ -2,7 +2,9 @@
 
 Evaluacion practica realizada para una entrevista realizada por la empresa ProContacto.
 
-Resulto por: Luciano Alejo Rodriguez Loza
+Resulto por: Luciano Alejo Rodriguez
+
+Linkedin: https://www.linkedin.com/in/lurodriguezg26/
 
 ## EJERCICIO 2
 1-	Que es un servidor Http
