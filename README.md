@@ -153,6 +153,45 @@ f) ¿Qué es un Rol?
 
 Un rol es capaz de controlar el nivel de visibilidad que un usuario tiene sobre los datos de su organizacion.
 
+g) ¿Qué es un Validation Rule?
+
+Verifican datos que un usuario introduce en un registro, si estos cumplen con las normas que especifica antes de que el usuario guarde el registro.
+Contiene una formula o expresión que evalúa los datos en uno o mas campos y ofrece un valor booleano.
+
+h) ¿Qué diferencia hay entre una relación Master Detail y Lookup?
+
+  -> Relacion Lookup: Permite hasta 25 por objeto y no tiene impacto en la eliminación.No es obligatorio el campo de relacion con el padre. El campo de busqueda no es obligatorio. No se puede crear un campo de resumen acumulativo.
+  
+  -> Relacion Master Detail: Relacion obligatoria padre-hijo. Si se elimina la clase padre entonces la clase hijo es eliminada tambien. El campo de busqueda es obligatorio en el diseño de la pagina. Se puede crear un campo de resumen acumulativo.
+
+i) ¿Qué es un sandbox?
+
+Es una copia de la organizacion, aislada. Una instancia completamente independiente con el proposito de ser utilizado para pruebas. Cualquier cambio realizado en ellas no afecta a la organizacion real en la cual se esta trabajando.
+
+j) ¿Qué es un ChangeSet?
+
+Son un conjunto de cambios utilizados para enviar personalizaciones de una organizacion de salesforce a otra.
+
+k) ¿Para qué sirve el import Wizard de Salesforce?
+
+Es una herramienta que permite importar datos de muchos de los objetos estandares de salesforce, como prospectos,cuentas o contactos, así como objetos personalizados.
+
+l) ¿Para qué sirve la funcionalidad Web to Lead?
+
+Es utilizada para generar información de clientes potenciales de los visitantes del sitio web.
+
+m) ¿Para qué sirve la funcionalidad Web to Case?
+
+Es utilizada para recopilar las solicitudes de servicio de atención al cliente directamente del sitio web de la compañia. Esta herramienta es capaz de generar automáticamente casos nuevos con Web to case.
+
+n) ¿Para qué sirve la funcionalidad Omnichannel?
+
+Es una función de salesforce que ofrece canales de servicio y aumenta la eficiencia de de un centro de contacto. Mantiene el seguimiento de la información y solicitud de asistencia entrantes de distintos canales en la empresa. Facilita a los agentes a seguir con sus practicas de negocio y ayudar a los clientes independientemente de como hacen el contacto.
+
+o) ¿Para qué sirve la funcionalidad Chatter?
+
+Es una red social interna de salesforce que permite comunicar diferentes compañeros de trabajo para estar mas coordinados y evitar usar mail. Permite seguir objetos de negocio.
+
 ### Conceptos generales
 
 
