@@ -288,6 +288,14 @@ Salesforce es un CRM, utilizado para gestionar la relación con los clientes.
 
 ## EJERCICIO 7 
 
-#### Punto 1) ID escogida: -N3p_NX2MSS2sIbmQMSp
+#### Punto A) ID escogida: -N3p_NX2MSS2sIbmQMSp
 
 ![ejercicio 7](ejercicio7.PNG)
+
+#### Punto C) Imagenes del codigo: 
+
+![image](https://user-images.githubusercontent.com/102762669/229152760-6746a8d9-d8d9-474d-a81e-9788d1be7f99.png)
+
+![image](https://user-images.githubusercontent.com/102762669/229152845-8cb7b691-c038-4c1f-bce1-8481428fc7c0.png)
+
+
