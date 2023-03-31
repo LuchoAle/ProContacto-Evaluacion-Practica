@@ -228,6 +228,11 @@ Estrategia de comunicación que mejora la relación empresa-cliente a través de
 
 I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
 
+B2B (Business to business) hace hincapié al proceso de venta de productos y servicios directamente entre dos empresas- Es un modelo de negocio que consiste en los servicios que una compañia entrega a otra con el objetivo de mejorar las ventas de los productos y bienes que ofrece.
+
+B2C (Business to consumer) Es un modelo de negocio en el cual las empresas ofrecen productos y servicios al público general, con el objetivo de obtener un procentaje de rentabilidad durante la transacción.
+
+KPI: son variables,factores y unidades de medida que se necesitan para generar una estrategia de mercado
 
 
 J.	¿Qué es una API y en qué se diferencia de una Rest API?
