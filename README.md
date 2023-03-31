@@ -1,5 +1,7 @@
 # ProContacto-Evaluacion-Practica
+
 Evaluacion practica realizada para una entrevista realizada por la empresa ProContacto.
+
 Resulto por: Luciano Alejo Rodriguez Loza
 
 ## EJERCICIO 2
