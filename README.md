@@ -18,6 +18,7 @@ Los verbos HTTP son distintas palabras que son utilizadas para realizar peticion
 3- ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 
 Un request es la peticion que realiza el cliente al servidor,esta es realizada junto con un metedo (como lo puede ser Get) y una URL.Un response es la respuesta que el servidor realiza al tener una peticion, devuelve un codigo de status junto con la informacion requerida en la peticion. En ambos casos se especifica el tipo de lenguaje, que púede ser XML, Jason, etc.
+
 Los Headers contienen informacion de los metadatos
 
 4- ¿Qué es un queryString? (En el contexto de una url)
@@ -37,6 +38,9 @@ Hay distintos tipos de codigo, por lo general los 1xx informan respuestas inform
 
 6- ¿Cómo se envía la data en un Get y cómo en un POST?
 
+En la petición Get se utiliza una URL a la cual el usuario le va pedir recursos, el servidor recibe esa peticion y este saca datos de la API o del Back-end y son enviados al usuario.
+En la petición Post se utiliza una URL a la cual el usuario enviar un recurso nuevo hacia el servidor y este se encarga de guardarlo en la base de datos, es posible que el servidor devuelva un informe o un recurso especifico cuando es utilizada esta sentencia.
+
 7- ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 
 Este realiza un metodo GET, ya que pide todos los recursos necesarios para obtener los datos/archivos de la pagina. Por ejemplo trae los archivos css,js,html,etc.
@@ -50,10 +54,16 @@ Caracteristicas: es un formato complicado de trabajar por las personas y mantien
 
 Ejemplo: 
 
+![image](https://user-images.githubusercontent.com/102762669/229022927-71d0dc64-7732-4a2e-a713-d0977430d438.png)
+
+
 Formato JSON (JavaScript Object Notation): presenta la informacion mas legible para las personas. Este formato se basa en un subconjunto concreto del lenguaje de programacion JavaScript. Este protocolo utiliza una serie de pares de Nombre y valor en orden. 
 Caracteristicas: Es un formato simple y trabaja con una velocidad de procesamiento alta
 
 Ejemplo: 
+
+![image](https://user-images.githubusercontent.com/102762669/229022888-4727ba4f-b2d3-4eb8-9cc5-a0acfb0523c8.png)
+
 
 9- Explicar brevemente el estándar SOAP
 
@@ -71,7 +81,9 @@ Una consulta debe especificar parametros de consulta para que el servicio sepa l
 
 11- ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
-Los headers transmiten 
+Los headers en un request son los encargados de transmitir la información acerca del navegador del cliente, de la pagina solicitada, del servidor, etc.
+
+El key content-type en un header se utiliza para proporcionar al cliente el tipo de medio original del recurso.
 
 
 ## EJERCICIO 3
